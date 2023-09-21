@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import cocktailSlice from "./features/cocktailSlice";
+import cocktailSlice from "./features/cockSlice";
 
 export default configureStore({
   reducer: {
